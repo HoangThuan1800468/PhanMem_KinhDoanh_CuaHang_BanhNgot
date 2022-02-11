@@ -1,5 +1,4 @@
-# PhanMem_KinhDoanh_CuaHang_BanhNgot
-
+# Phần mềm kinh doanh cửa hàng bánh ngọt trên máy tính - Ngôn ngữ Java
 # Chương 1. Tổng quan
 1.	Lý do chọn đề tài.
 -	Mục tiêu của một phần mềm là phục vụ tối đa cho nhu cầu giải quyết công việc của con người, giúp con người có thể dễ dàng quản lý thông tin và làm việc năng suất cao hơn so với thủ công.
