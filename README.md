@@ -1,6 +1,6 @@
 # PhanMem_KinhDoanh_CuaHang_BanhNgot
 
-Chương 1. Tổng quan
+#Chương 1. Tổng quan
 1.	Lý do chọn đề tài.
 -	Mục tiêu của một phần mềm là phục vụ tối đa cho nhu cầu giải quyết công việc của con người, giúp con người có thể dễ dàng quản lý thông tin và làm việc năng suất cao hơn so với thủ công.
 -	Khoa học công nghệ phát triển giúp chúng ta có thể tạo ra nhiều phần mềm phục vụ hầu hết các lĩnh vực trong đời sống xã hội, từ đó giúp các ngành công nghiệp hay ngành văn phòng,… dễ dàng làm việc được năng suất cao và ứng dụng thêm nhiều công nghệ tiên tiến hay máy móc vào sản xuất.
@@ -23,7 +23,9 @@ Chương 1. Tổng quan
 6.	Tính cấp thiết.
 -	Kinh doanh bán hàng tốn rất nhiều thời gian và công sức, vì vậy các ứng dụng hỗ trợ bán hàng ra đời hỗ trợ rất nhiều trong quá trình làm việc của người quản lý. Tránh được các trường hợp bất cập, sai sót xảy ra với số lượng bánh nhiều.
 -	Sự phức tạp và một lượng lớn thông tin sẽ dễ làm cho quá trình quản lý tốn nhiều thời gian và phức tạp sẽ dẫn đến sai sót. Do đó phần mềm hỗ trợ bán bánh là sự lựa chọn tốt nhất cho việc quản lý.
-Chương 2. Cơ sở lý thuyết
+
+#Chương 2. Cơ sở lý thuyết
+
 1.	Netbeans IDE 12.0.1
 -	Netbeans là một môi trường phát triển tích hợp, miễn phí. Nó đã được tạo ra chủ yếu cho ngôn ngữ lập trình Java và nó cũng có một số mô-đun đáng kể để mở rộng và làm cho nó hoàn thiện hơn. NetBeans là một dự án mã nguồn mở rất thành công, với lượng người dùng lớn và cộng đồng không ngừng phát triển.
 -	Đối với những người không quen thuộc với IDE này, bạn nên biết rằng cung cấp hỗ trợ cho các ngôn ngữ lập trình Java SE, Java EE, PHP, JavaScript và Groovy. Ngoài các tính năng của nó, có một hệ thống thiết kế dựa trên Ant, kiểm soát phiên bản và tái cấu trúc.
