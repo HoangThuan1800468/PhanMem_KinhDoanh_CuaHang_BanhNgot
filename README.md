@@ -54,4 +54,11 @@
 -	SQL Server hoạt động độc quyền trên môi trường Windows trong hơn 20 năm. Năm 2016, Microsoft đã cung cấp phiên bản trên Linux. SQL Server 2017 ra mắt vào tháng 10 năm 2016 chạy trên cả Windows và Linux, SQL Server 2019 ra mắt trong năm 2019.
 -	SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
 
-![image](https://user-images.githubusercontent.com/82866694/153561029-1e3dda16-5811-4c20-924f-b56d82b332ff.png)
+# Chương 3. Nội dung thực hiện.
+
+1.	Thiết kế dữ liệu.
+-	Xác định thực thể:
+-	Sơ đồ use case:
+o	Sơ đồ use case tổng quan:
+o	Sơ đồ use case chức năng quản lí trang chính:
+3.	Thiết kế giao diện.
