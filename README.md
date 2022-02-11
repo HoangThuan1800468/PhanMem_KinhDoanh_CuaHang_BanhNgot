@@ -1,38 +1,5 @@
 # PhanMem_KinhDoanh_CuaHang_BanhNgot
 
-KHOA CÔNG NGHỆ THÔNG TIN
-BM. KỸ THUẬT PHẦN MỀM
-ĐỒ ÁN HỌC PHẦN 1
-ỨNG DỤNG BÁN BÁNH TRÊN NỀN TẢNG JAVA
---------------------------------------------------------
-Giảng viên hướng dẫn:
-Đinh Thành Nhân			
-Sinh viên thực hiện:
-    	1800468. Lý Hoàng Thuận
-      1800588. Lê Hải Dâng
---------------------------------------------------------
-LỜI CAM ĐOAN
-Để hoàn thành đồ án, chúng em có tham khảo các tài liệu hướng dẫn.
-Chúng em xin cam đoan rằng chính chúng em thực hiện và hoàn thành đề tài đồ án này.
---------------------------------------------------------
-MỤC LỤC
-
-Chương 1.	Tổng quan								                      Trang 4
-Chương 2.	Cơ sở lý thuyết	 						                  Trang 5
-  2.1. 	Netbean IDE 12.3  							                Trang 5
-  2.2.	Microsoft SQL Server 2019 			                Trang 6
-Chương 3.	Nội dung thực hiện 					                  Trang 7
-	3.1.	Thiết kế cơ sở dữ liệu 				                  Trang 7
-	3.2.	Thiết kế giao diện 							                Trang 12
-Chương 4.	Đánh giá, kết luận và hướng phát triển 				Trang 35
-	4.1.	Đánh giá thực nghiệm 						                Trang 35
-	4.2. 	Kết luận 								                        Trang 35
-	4.3.	Ưu điểm và nhược điểm 						              Trang 36
-	4.4.	Hướng phát triển 							                  Trang 37
-
-TÀI LIỆU THAM KHẢO 								                      Trang 38
---------------------------------------------------------
-
 Chương 1. Tổng quan
 1.	Lý do chọn đề tài.
 -	Mục tiêu của một phần mềm là phục vụ tối đa cho nhu cầu giải quyết công việc của con người, giúp con người có thể dễ dàng quản lý thông tin và làm việc năng suất cao hơn so với thủ công.
