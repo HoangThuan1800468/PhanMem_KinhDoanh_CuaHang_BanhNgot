@@ -61,6 +61,10 @@
 
 1.	Thiết kế dữ liệu.
 -   Xác định thực thể:
+    +	Bàn.
+    +	Bánh.
+    +	Đơn bán bánh.
+    +	Tài khoản.
 -	Sơ đồ use case:
     +	Sơ đồ use case tổng quan:
     
